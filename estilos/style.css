@@ -39,8 +39,10 @@ section#login {
 section#login > div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/fundo.jpg) no-repeat;
+    background-position: center;
     background-size: cover;
     height: 200px;
+
 }
 
 section#login > div#formulario {
